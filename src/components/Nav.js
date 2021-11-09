@@ -47,7 +47,7 @@ export default function Nav(props) {
                                 </svg>
                             )}
                         </button>
-                        <a href="https://github.com/anguy258/ListenIn">
+                        <a href="https://github.com/anguy258/KonBan-Prototype">
                             <svg
                                 className="w-5 h-5 fill-current transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-125"
                                 xmlns="http://www.w3.org/2000/svg"
